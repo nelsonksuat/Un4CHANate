@@ -22,3 +22,10 @@ DATA_ANALYSIS_4CHAN_I_Performs topic modeling on a selected portion of the datas
 
 DATA_ANALYSIS_4CHAN_II_ Conducts sentiment analysis using DistilBERT on comments associated with the most relevant topics.
 
+Example of the analysis done by this repository:
+
+![WhatsApp Image 2025-01-30 at 14 47 51 (1)](https://github.com/user-attachments/assets/f0771737-ff1a-4353-8443-01304ed334af)
+![WhatsApp Image 2025-01-30 at 14 47 51](https://github.com/user-attachments/assets/dd542d05-5888-4f4d-84c6-4ec725f57133)
+
+
+
