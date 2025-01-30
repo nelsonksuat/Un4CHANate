@@ -18,3 +18,7 @@ The **DATA_LOADER_4CHAN_v2.ipynb** is designed to process and extract data from 
 
 This structured approach ensures efficient handling of large datasets and produces a clean, time-specific dataset for further analysis.
 
+DATA_ANALYSIS_4CHAN_I_Performs topic modeling on a selected portion of the dataset and appends the extracted topics to the original dataset.
+
+DATA_ANALYSIS_4CHAN_II_ Conducts sentiment analysis using DistilBERT on comments associated with the most relevant topics.
+
